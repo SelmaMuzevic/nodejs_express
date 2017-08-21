@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_express",
+  "version": "0.0.1",
+  "description": "\"A demo app with Express and NodeJS.\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelmaMuzevic/nodejs_express.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "serveur",
+    "Express"
+  ],
+  "author": "Selma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SelmaMuzevic/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/SelmaMuzevic/nodejs_express#readme"
+}
