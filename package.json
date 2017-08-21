@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SelmaMuzevic/nodejs_express/issues"
   },
-  "homepage": "https://github.com/SelmaMuzevic/nodejs_express#readme"
+  "homepage": "https://github.com/SelmaMuzevic/nodejs_express#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
